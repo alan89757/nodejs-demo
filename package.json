@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "【导读】：Node.js 是一个开源、跨平台的，用于编写服务器和命令行的 JavaScript 运行时工具。",
+  "main": "index.js",
+  "dependencies": {
+    "camelcase": "^7.0.0",
+    "public-ip": "^6.0.1",
+    "wifi-password": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan89757/nodejs-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan89757/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/alan89757/nodejs-demo#readme"
+}
