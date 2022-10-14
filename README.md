@@ -363,7 +363,7 @@
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的真实长度-通过正确计算星号并忽略ansi转义码.
-- [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点号/下划线/空格分隔的字符串转换为驼峰式,案例：foo-bar→fooBar.
+- [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点号/下划线/空格分隔的字符串转换为驼峰式,案例：foo-bar→fooBar.  [代码示例](/camelcase/index.mjs)
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - 转义RegExp特殊字符.
 - [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - 移除或替换字符串的一部分`Array#splice`.
