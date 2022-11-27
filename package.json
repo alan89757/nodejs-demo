@@ -9,6 +9,7 @@
     "libreoffice-convert": "^1.4.1",
     "public-ip": "^6.0.1",
     "querystring": "^0.2.1",
+    "sha1": "^1.1.1",
     "wifi-password": "^3.0.1"
   },
   "devDependencies": {},
